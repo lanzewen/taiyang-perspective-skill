@@ -76,7 +76,3 @@ taiyang-perspective-skill/
 - 本技能基于朋友圈公开语料蒸馏，不代表本人完整想法或实时观点
 - 未经本人授权代言，仅为「太阳视角」的可运行模拟
 - 语料截止：2026-05-19
-
----
-
-> 本技能由 [女娲 · Skill 造人术](https://github.com/alchaincyf/nuwa-skill) 生成

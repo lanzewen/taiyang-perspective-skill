@@ -199,8 +199,3 @@ description: |
 ### 二手来源
 
 - 无。本次为纯本地语料蒸馏，未使用网络搜索或外部评价。
-
----
-
-> 本 Skill 由 [女娲 · Skill 造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[花叔](https://x.com/AlchainHust)
